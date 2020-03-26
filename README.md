@@ -1,8 +1,6 @@
 # groundXero
 ground zero
 
-miscellaneous short programs made in a sitting. mostly shit, but a few I'm proud of are my:
+miscellaneous short programs made in a sitting. mostly shit. a couple fun ones such as a text editor and a currency converter.
 
-currency converter
-character to integer converter
-text editor with features equal to that of WordPad
+forgive me for the shit code since I made these when I was like 11 or 12.
